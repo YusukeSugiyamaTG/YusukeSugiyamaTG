@@ -1,6 +1,6 @@
 # Who am I?
 
-Terraform と yaml ばかり書いてる人です。
+`Terraform` と `yaml` ばかり書いてる人です。
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YusukeSugiyamaTG&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
