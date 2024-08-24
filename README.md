@@ -1,8 +1,17 @@
 # Who am I?
 
-`Terraform` と `yaml` ばかり書いてる人です。
+I am an Engineering Manager and SRE in the Residential Market Strategy Dept. at TOKYO GAS Co., Ltd.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YusukeSugiyamaTG&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp&p=yusuke-sugiyama)!!🚢
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,ts,nodejs,npm,github,githubactions)](https://skillicons.dev)
+
+## Status
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YusukeSugiyamaTG&theme=alduin&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusukeSugiyamaTG&theme=nord_bright)
-
