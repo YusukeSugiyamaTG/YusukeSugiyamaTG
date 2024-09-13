@@ -6,7 +6,7 @@ I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,ts,nodejs,npm,github,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,azure,terraform,grafana,linux,nginx,html,react,nextjs,ts,nodejs,nestjs,java,postgres,npm,github,githubactions,md,notion)](https://skillicons.dev)
 
 ## Status
 
