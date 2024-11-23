@@ -15,3 +15,7 @@ I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp
 ## Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YusukeSugiyamaTG&theme=nord_bright)
+
+## My Presentation Materials
+
+https://speakerdeck.com/yussugi
