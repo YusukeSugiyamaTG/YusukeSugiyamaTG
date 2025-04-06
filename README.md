@@ -1,6 +1,6 @@
 # Who am I?
 
-I am an SRE Manager in the Residential Market Strategy Dept. at TOKYO GAS Co., Ltd.
+I am a Software Engineering & Strategy Lead at TOKYO GAS Co., Ltd.
 
 I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp&p=yusuke-sugiyama)!!🚢
 
