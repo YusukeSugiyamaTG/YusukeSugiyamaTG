@@ -17,7 +17,7 @@ I'm [Kubestronaut](https://www.cncf.io/training/kubestronaut/?_sft_lf-country=jp
 
 ## Status
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YusukeSugiyamaTG&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Activity
 
