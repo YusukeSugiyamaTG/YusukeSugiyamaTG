@@ -1,1 +1,1 @@
-Move to [@yussugi](https://github.com/yussugi)
+# Moved to [@yussugi](https://github.com/yussugi)
